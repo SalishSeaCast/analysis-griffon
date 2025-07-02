@@ -1,0 +1,381 @@
+
+
+In 1933 there is:
+    ios bottle: 24
+
+In 1934 there is:
+    ios bottle: 161
+
+In 1936 there is:
+    ios bottle: 260
+
+In 1937 there is:
+    ios bottle: 559
+
+In 1938 there is:
+    ios bottle: 935
+
+In 1950 there is:
+    ios bottle: 212
+
+In 1951 there is:
+    ios bottle: 617
+
+In 1954 there is:
+    ios bottle: 1222
+
+In 1955 there is:
+    ios bottle: 837
+
+In 1957 there is:
+    ios bottle: 581
+
+In 1958 there is:
+    ios bottle: 711
+
+In 1959 there is:
+    ios bottle: 1168
+
+In 1960 there is:
+    ios bottle: 1341
+
+In 1961 there is:
+    ios bottle: 2203
+
+In 1962 there is:
+    ios bottle: 2930
+
+In 1963 there is:
+    ios bottle: 355
+
+In 1964 there is:
+    ios bottle: 82
+
+In 1965 there is:
+    ios bottle: 171
+
+In 1966 there is:
+    ios bottle: 69
+
+In 1967 there is:
+    ios bottle: 18
+
+In 1968 there is:
+    ios bottle: 25
+    ios ctd profiles: 33
+
+In 1969 there is:
+    ios bottle: 19
+    ios ctd profiles: 161
+
+In 1970 there is:
+    ios ctd profiles: 209
+
+In 1971 there is:
+    ios ctd profiles: 234
+
+In 1972 there is:
+    ios bottle: 12
+    ios ctd profiles: 630
+
+In 1973 there is:
+    ios ctd profiles: 392
+
+In 1974 there is:
+    ios ctd profiles: 239
+
+In 1976 there is:
+    ios bottle: 4
+
+In 1977 there is:
+    ios bottle: 203
+
+In 1978 there is:
+    ios bottle: 17
+
+In 1979 there is:
+    ios bottle: 904
+
+In 1980 there is:
+    ios bottle: 1698
+
+In 1981 there is:
+    ios bottle: 651
+
+In 1982 there is:
+    ios bottle: 4
+
+In 1983 there is:
+    ios bottle: 959
+
+In 1984 there is:
+    CALCOFI: 1064
+    ios bottle: 722
+
+In 1985 there is:
+    CALCOFI: 156
+    ios bottle: 765
+
+In 1986 there is:
+    CALCOFI: 296
+    ios bottle: 1181
+
+In 1987 there is:
+    CALCOFI: 904
+    ios bottle: 875
+
+In 1988 there is:
+    CALCOFI: 203
+    ios bottle: 876
+
+In 1989 there is:
+    CALCOFI: 259
+    ios bottle: 587
+
+In 1990 there is:
+    CALCOFI: 142
+    ios bottle: 510
+
+In 1991 there is:
+    CALCOFI: 145
+    ios bottle: 458
+
+In 1992 there is:
+    CALCOFI: 167
+    ios bottle: 191
+
+In 1993 there is:
+    CALCOFI: 184
+    ios bottle: 278
+
+In 1994 there is:
+    CALCOFI: 202
+    ios bottle: 320
+
+In 1995 there is:
+    CALCOFI: 167
+    NCEI PNW: 6
+    ios bottle: 375
+
+In 1996 there is:
+    CALCOFI: 197
+    ios bottle: 484
+
+In 1997 there is:
+    CALCOFI: 195
+    NCEI PNW: 22
+    NHL: 6284
+    ios bottle: 859
+
+In 1998 there is:
+    CALCOFI: 349
+    NHL: 11712
+    ios bottle: 963
+
+In 1999 there is:
+    CALCOFI: 191
+    NCEI PNW: 23
+    NHL: 9848
+    ios bottle: 964
+
+In 2000 there is:
+    CALCOFI: 184
+    NCEI PNW: 64
+    NHL: 10709
+    ios bottle: 607
+
+In 2001 there is:
+    CALCOFI: 191
+    NCEI PNW: 9
+    NHL: 15001
+    ios bottle: 130
+
+In 2002 there is:
+    CALCOFI: 182
+    NHL: 16441
+    ios bottle: 607
+
+In 2003 there is:
+    CALCOFI: 188
+    NHL: 12448
+    ios bottle: 677
+
+In 2004 there is:
+    CALCOFI: 183
+    NCEI PNW: 17
+    NHL: 13471
+    OCNMS: 5991
+    ios bottle: 973
+    ios bottle, NCEI PNW: 14
+
+In 2005 there is:
+    CALCOFI: 192
+    NHL: 9532
+    OCNMS: 8145
+    ios bottle: 832
+
+In 2006 there is:
+    CALCOFI: 205
+    NHL: 11069
+    OCNMS: 4036
+    ios bottle: 429
+
+In 2007 there is:
+    CALCOFI: 229
+    NCEI Coastal: 348
+    NHL: 13513
+    OCNMS: 3273
+    ios bottle: 681
+
+In 2008 there is:
+    CALCOFI: 191
+    NCEI Salish: 41
+    NHL: 15953
+    OCNMS: 2172
+    ios bottle: 625
+    ios mooring: 1210
+
+In 2009 there is:
+    CALCOFI: 192
+    NHL: 14447
+    OCNMS: 1811
+    ios bottle: 727
+    ios mooring: 3551
+
+In 2010 there is:
+    CALCOFI: 189
+    NCEI PNW: 13
+    NHL: 16052
+    OCNMS: 1211
+    ios bottle: 1024
+    ios bottle, NCEI PNW: 1
+    ios mooring: 4576
+
+In 2011 there is:
+    CALCOFI: 255
+    NCEI Coastal: 543
+    NCEI Coastal, NHL: 10
+    NCEI Salish: 31
+    NHL: 14384
+    OCNMS: 1337
+    ios bottle: 481
+    ios mooring: 7006
+
+In 2012 there is:
+    CALCOFI: 199
+    NCEI Coastal: 516
+    NCEI Salish: 21
+    NHL: 14430
+    OCNMS: 2386
+    ios bottle: 391
+    ios mooring: 6365
+
+In 2013 there is:
+    CALCOFI: 295
+    NCEI Coastal: 472
+    NCEI Salish: 51
+    NHL: 10300
+    OCNMS: 1299
+    ios bottle: 587
+    ios bottle, NCEI PNW: 6
+    ios mooring: 4834
+
+In 2014 there is:
+    CALCOFI: 149
+    NCEI PNW: 2
+    NCEI Salish: 31
+    NHL: 9825
+    OCNMS: 1342
+    ios bottle: 406
+    ios bottle, NCEI PNW: 21
+    ios mooring: 5224
+    ooi: 284
+
+In 2015 there is:
+    CALCOFI: 268
+    NCEI Coastal: 319
+    NCEI PNW: 18
+    NCEI Salish: 52
+    NHL: 15163
+    OCNMS: 1227
+    ios bottle: 550
+    ios bottle, NCEI PNW: 13
+    ios mooring: 6602
+    ooi: 1171
+
+In 2016 there is:
+    CALCOFI: 327
+    NCEI Coastal: 618
+    NCEI PNW: 3
+    NCEI Salish: 47
+    NHL: 10645
+    OCNMS: 928
+    ios bottle: 499
+    ios bottle, NCEI PNW: 26
+    ios mooring: 10426
+    ooi: 1305
+
+In 2017 there is:
+    CALCOFI: 294
+    NCEI Coastal: 221
+    NCEI PNW: 2
+    NCEI Salish: 12
+    NHL: 10149
+    OCNMS: 1271
+    ios bottle: 540
+    ios bottle, NCEI PNW: 9
+    ios mooring: 18794
+    ooi: 1188
+
+In 2018 there is:
+    CALCOFI: 250
+    NCEI Salish: 20
+    NHL: 10887
+    OCNMS: 887
+    ios bottle: 601
+    ios mooring: 21373
+    ios mooring, ios bottle: 2
+    ooi: 1217
+
+In 2019 there is:
+    CALCOFI: 152
+    NHL: 12447
+    OCNMS: 1207
+    ios bottle: 601
+    ios mooring: 18307
+    ios mooring, ios bottle: 3
+    ooi: 1432
+
+In 2020 there is:
+    CALCOFI: 203
+    NHL: 8329
+    OCNMS: 652
+    ios bottle: 632
+    ios mooring: 18634
+    ios mooring, ios bottle: 2
+    ooi: 1278
+
+In 2021 there is:
+    CALCOFI: 64
+    NHL: 4680
+    OCNMS: 860
+    ios bottle: 612
+    ios mooring: 19302
+    ios mooring, ios bottle: 2
+    ooi: 1342
+
+In 2022 there is:
+    OCNMS: 964
+    ios bottle: 509
+    ios mooring: 10133
+    ooi: 1123
+
+In 2023 there is:
+    OCNMS: 1172
+    ios bottle: 1
+    ios ctd profiles: 728
+    ios ctd profiles, ios bottle: 8
+    ooi: 1278
+
+In 2024 there is:
+    ooi: 988
