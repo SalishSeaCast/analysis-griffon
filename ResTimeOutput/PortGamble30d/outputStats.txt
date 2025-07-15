@@ -1,0 +1,11 @@
+
+Day 1 mean time (h)        = 6.879249427531283
+Day 1 stdev of time in (h) = 6.498023278032835
+Total mean time in (h)     = 28.061820662008802
+Total mean time in (d)     = 1.1692425275837002
+Total stdev of time in (h) = 89.06561353500481
+
+Filtered Data Stats
+Day 1 mean time (h) = nan
+Total mean time in (h) = 167.9853700887356
+Total mean time in (d) = 6.999390420363984
