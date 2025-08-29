@@ -9,12 +9,20 @@ Descriptions below the links are from the first cell of the notebooks
 
 * ## [DefiningCurrentRegions.ipynb](https://nbviewer.org/github/SalishSeaCast/analysis-griffon/blob/main/notebooks/CaliforniaCurrentAnalysis/DefiningCurrentRegions.ipynb)  
     
+    **Defining currents based on our definitions, and some exploratory plots along the way.**
+
 * ## [CurrentAnalysis_AlongshoreDistFigure.ipynb](https://nbviewer.org/github/SalishSeaCast/analysis-griffon/blob/main/notebooks/CaliforniaCurrentAnalysis/CurrentAnalysis_AlongshoreDistFigure.ipynb)  
     
+    **Plots with map and property trend + linear regression**
+
 * ## [CurrentAnalysis_ObservationDistribution.ipynb](https://nbviewer.org/github/SalishSeaCast/analysis-griffon/blob/main/notebooks/CaliforniaCurrentAnalysis/CurrentAnalysis_ObservationDistribution.ipynb)  
     
+    **Temporal distribution of data for the three water masses seperated by region of CCS**
+
 * ## [InitialObsPlotting.ipynb](https://nbviewer.org/github/SalishSeaCast/analysis-griffon/blob/main/notebooks/CaliforniaCurrentAnalysis/InitialObsPlotting.ipynb)  
     
+    **Largely similar to InitialObsPlotting**
+
 * ## [PreliminaryCurrentAnalysis.ipynb](https://nbviewer.org/github/SalishSeaCast/analysis-griffon/blob/main/notebooks/CaliforniaCurrentAnalysis/PreliminaryCurrentAnalysis.ipynb)  
     
     **Exploratory plots: temporal/spatial density, climate indicator comparisons, avg depth profiles**
@@ -29,8 +37,12 @@ Descriptions below the links are from the first cell of the notebooks
 
 * ## [CurrentAnalysis_ObservedTrend.ipynb](https://nbviewer.org/github/SalishSeaCast/analysis-griffon/blob/main/notebooks/CaliforniaCurrentAnalysis/CurrentAnalysis_ObservedTrend.ipynb)  
     
+    **Rate plots down currents. Several iterations with final rate+CI error bar plots at the bottom**
+
 * ## [InitialObsPlotting_Copy.ipynb](https://nbviewer.org/github/SalishSeaCast/analysis-griffon/blob/main/notebooks/CaliforniaCurrentAnalysis/InitialObsPlotting_Copy.ipynb)  
     
+    **Preliminary exploratory plots examining what the data roughly looks like**
+
 
 ## License
 

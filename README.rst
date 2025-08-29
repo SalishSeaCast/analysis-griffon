@@ -10,6 +10,10 @@ of the SalishSeaCast model
 Most of the files are Jupyter Notebooks.
 Please see the ``README.md`` files in each directory for links to read-only renderings of the notebooks.
 
+Note
+=======
+The main notebooks and README file are all within the /notebooks folder
+
 
 License
 =======
