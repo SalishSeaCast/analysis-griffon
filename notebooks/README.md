@@ -16,27 +16,29 @@ Descriptions below the links are from the first cell of the notebooks
 ## DATA & FILE OVERVIEW
 ## ---------------------
 
-1. File List
+File List:
+
 File: wm_divide.ipynb
 Short description: Initial draft file I was given for seperating watermasses in CCS
+
 Folder: CaliforniaCurrentAnalysis
 Description: Data processing and analysis for the CCS
-   A. File: myobs.ipynb
+   1. File: myobs.ipynb
       Description: Originally given from bbeutel for processing raw data from various datasets. Added CalCOFI dataset to it.
       It outputs the PNW_obs_compiled.csv file which is a dataframe of all of the various data compiled together.
-   B. File: DefiningCurrentRegions.ipynb
+   2. File: DefiningCurrentRegions.ipynb
       Description: Long file containing breakdown into the 3 different water masses based on various definitions we used. It
       also contains many exploratory plots that helped understand some properties of the currents. It takes the dataframe
       from myobs.ipynb and returns a dataframe with additional columns for the current the datapoint belongs to. This dataframe
       is stored as PNWCurrent_obs.csv
-   C. Files: CurrentAnalysis_* 
+   3. Files: CurrentAnalysis_* 
       Description: Each of these files contains specific figures I made to summarize properties in the 3 watermasses. These
       contain things like property trends, rates up and down the currents, temporal data density etc. This takes the dataframe
       with currents defined in DefiningCurrentRegions.ipynb
-   D. File: InitialObsPlotting*
+   4. File: InitialObsPlotting*
       Description: These two files are largely the same and just had some exploratory figures looking at the profiles and data
       we first got from myobs.ipynb.
-   E. File: PreliminaryCurrentAnalysis.ipynb
+   5. File: PreliminaryCurrentAnalysis.ipynb
       Description: After seperating the currents, this was my first attempt at plotting the properties. Contained in here are
       some plots of spatial and temporal data density and then anomaly plots compared with climate indicators ENSO, NPGO, PDO.
       The sources for these indicators are in this notebook
